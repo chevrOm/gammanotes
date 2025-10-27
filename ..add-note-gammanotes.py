@@ -32,10 +32,13 @@ while True:
         simbolo = input('Digite o símbolo: ')
         valor = input('Digite o preço: ')
         nota = input('Digite a nota: ')
+        cor = input('Cor da nota: #')
         novo_registro = padrao[:]  # copia o padrão
         novo_registro[0] = simbolo + '.CME@RITHMIC'  # acrescenta o sufixo
         novo_registro[1] = valor
         novo_registro[2] = nota
+        novo_registro[3] = '#ffffff'    # cor da letra
+        novo_registro[4] = '#' + cor
         linhas.append(novo_registro)
         print(f"Linha adicionada: {novo_registro}")
     elif opcao == '2':
