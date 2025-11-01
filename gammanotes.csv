@@ -1,8 +1,8 @@
 Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment,Notification Enabled,Sound Notification Enabled,Notification Is Repeatable,Delay Before Repeating,Subscribing Offset,Notification Sound
 NQZ5.CME@RITHMIC,25254.0,Settle 09out25,#333333,#ffcc00,center,,false,true,30,3,
 NQZ5.CME@RITHMIC,26247.00,CallWall,#ffffff,#33cc00,center,,false,true,30,3,
-NQZ5.CME@RITHMIC,26292.50,IB HIGH,#ffffff,#107895,center,,false,true,30,3,
-NQZ5.CME@RITHMIC,26254.25,IB LOW,#ffffff,#107895,center,,false,true,30,3,
-NQZ5.CME@RITHMIC,26266.00,OPEN,#ffffff,#6699FF,center,,false,true,30,3,
-NQZ5.CME@RITHMIC,26262.50,SETTLEMENT 29OUT25,#107895,#ffcc00,center,,false,true,30,3,
+NQZ5.CME@RITHMIC,26199.50,IB HIGH,#ffffff,#107895,center,,false,true,30,3,
+NQZ5.CME@RITHMIC,26103.50,IB LOW,#ffffff,#107895,center,,false,true,30,3,
+NQZ5.CME@RITHMIC,26156.00,OPEN,#ffffff,#6699FF,center,,false,true,30,3,
+NQZ5.CME@RITHMIC,25882.75,SETTLEMENT 29OUT25,#107895,#ffcc00,center,,false,true,30,3,
 NQZ5.CME@RITHMIC,26300.00,ODTE CallWall,#ffffff,#33cc00,left,,false,true,30,3,
