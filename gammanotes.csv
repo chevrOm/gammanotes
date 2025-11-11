@@ -1,5 +1,4 @@
 Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment,Notification Enabled,Sound Notification Enabled,Notification Is Repeatable,Delay Before Repeating,Subscribing Offset,Notification Sound
-NQZ5.CME@RITHMIC,26004.00,SETTLEMENT,#333333,#ffcc00,center,,false,true,30,3,
 NQZ5.CME@RITHMIC,26247.00,CallWall,#ffffff,#33cc00,center,,false,true,30,3,
 NQZ5.CME@RITHMIC,26199.50,IB HIGH,#ffffff,#107895,center,,false,true,30,3,
 NQZ5.CME@RITHMIC,26103.50,IB LOW,#ffffff,#107895,center,,false,true,30,3,
