@@ -1,7 +1,25 @@
-Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment,Notification Enabled,Sound Notification Enabled,Notification Is Repeatable,Delay Before Repeating,Subscribing Offset,Notification Sound
-NQZ5.CME@RITHMIC,26247.00,CallWall,#ffffff,#33cc00,center,,false,true,30,3,
-NQZ5.CME@RITHMIC,26199.50,IB HIGH,#ffffff,#107895,center,,false,true,30,3,
-NQZ5.CME@RITHMIC,26103.50,IB LOW,#ffffff,#107895,center,,false,true,30,3,
-NQZ5.CME@RITHMIC,26026.00,OPEN,#ffffff,#6699FF,center,,false,true,30,3,
-NQZ5.CME@RITHMIC,26072.00,ETH HIGH,#FFFFFF,#33CC00,center,,false,true,30,3,
-NQZ5.CME@RITHMIC,26012.50,ETH LOW,#FFFFFF,#CC3300,center,,false,true,30,3,
+"Symbol","Price Level","Note","Foreground Color","Background Color","Text Alignment","Notification Enabled","Sound Notification Enabled","Notification Is Repeatable","Delay Before Repeating","Subscribing Offset","Notification Sound"
+
+"MNQZ5.CME@RITHMIC","24131.50","SETTLEMENT","#ffffff","orange","left","","false","false","60","3",""
+
+"MNQZ5.CME@RITHMIC","24758.50","IBH Ant","#ffffff","#107895","center","","false","true","60","3",""
+"MNQZ5.CME@RITHMIC","24572.75","IBL Ant","#ffffff","#107895","center","","false","true","60","3",""
+"MNQZ5.CME@RITHMIC","25154.75","IBH Dom","#ffffff","#107895","center","","false","true","60","3",""
+"MNQZ5.CME@RITHMIC","25091.00","IBL Dom","#ffffff","#107895","center","","false","true","60","3",""
+
+"MNQZ5.CME@RITHMIC","24758.50","IB HIGH","#ffffff","#107895","center","","false","true","60","3",""
+"MNQZ5.CME@RITHMIC","24572.75","IB LOW","#ffffff","#107895","center","","false","true","60","3",""
+
+"MNQZ5.CME@RITHMIC","24610.75","OPEN","#ffffff","#6699FF","center","","false","false","60","3",""
+
+"MNQZ5.CME@RITHMIC","24131.25","ETH HIGH","#FFFFFF","#33CC00","center","","false","false","60","3",""
+"MNQZ5.CME@RITHMIC","24018.00","ETH LOW","#FFFFFF","#CC3300","center","","false","false","60","3",""
+
+"MNQZ5.CME@RITHMIC","24700.00","Call OI","white","green","center","","false","true","60","3",""
+"MNQZ5.CME@RITHMIC","24420.00","Pos GEX","white","green","center","","false","true","60","3",""
+"MNQZ5.CME@RITHMIC","24300.00","Zero Gamma","black","white","center","","false","true","60","3",""
+"MNQZ5.CME@RITHMIC","24200.00","Neg GEX","white","red","center","","false","true","60","3",""
+"MNQZ5.CME@RITHMIC","16000.00","Put OI","white","red","center","","false","true","60","3",""
+
+"MNQZ5.CME@RITHMIC","25900.00","Ponto Gatilho 04/11","red","black","center","","false","true","30","3",""
+"MNQZ5.CME@RITHMIC","25193.00","VWAP M","white","#b591ff","center","","false","true","30","3",""
