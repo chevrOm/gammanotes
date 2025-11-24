@@ -1,25 +1,26 @@
 "Symbol","Price Level","Note","Foreground Color","Background Color","Text Alignment","Notification Enabled","Sound Notification Enabled","Notification Is Repeatable","Delay Before Repeating","Subscribing Offset","Notification Sound"
 
 "MNQZ5.CME@RITHMIC","24131.50","SETTLEMENT","#ffffff","orange","left","","false","false","60","3",""
+"MNQZ5.CME@TM.Lite","24305.0","SETTLEMENT","#333333","#ffff00","left","","","","","",""
 
-"MNQZ5.CME@RITHMIC","24280.00","IBH Ant","#ffffff","#107895","center","","false","true","60","3",""
-"MNQZ5.CME@RITHMIC","24152.75","IBL Ant","#ffffff","#107895","center","","false","true","60","3",""
-"MNQZ5.CME@RITHMIC","24536.25","IBH Dom","#ffffff","#107895","center","","false","true","60","3",""
-"MNQZ5.CME@RITHMIC","24445.50","IBL Dom","#ffffff","#107895","center","","false","true","60","3",""
+"MNQZ5.CME@TM.Lite","24280.00","IBH Ant","#ffffff","#107895","center","","false","true","60","3",""
+"MNQZ5.CME@TM.Lite","24152.75","IBL Ant","#ffffff","#107895","center","","false","true","60","3",""
+"MNQZ5.CME@TM.Lite","24536.25","IBH Dom","#ffffff","#107895","center","","false","true","60","3",""
+"MNQZ5.CME@TM.Lite","24445.50","IBL Dom","#ffffff","#107895","center","","false","true","60","3",""
 
-"MNQZ5.CME@RITHMIC","24280.00","IB HIGH","#ffffff","#107895","center","","false","true","60","3",""
-"MNQZ5.CME@RITHMIC","24152.75","IB LOW","#ffffff","#107895","center","","false","true","60","3",""
+"MNQZ5.CME@TM.Lite","24280.00","IB HIGH","#ffffff","#107895","center","","false","true","60","3",""
+"MNQZ5.CME@TM.Lite","24152.75","IB LOW","#ffffff","#107895","center","","false","true","60","3",""
 
-"MNQZ5.CME@RITHMIC","24202.75","OPEN","#ffffff","#6699FF","center","","false","false","60","3",""
+"MNQZ5.CME@TM.Lite","24202.75","OPEN","#ffffff","#6699FF","center","","false","false","60","3",""
 
-"MNQZ5.CME@RITHMIC","24131.25","ETH HIGH","#FFFFFF","#33CC00","center","","false","false","60","3",""
-"MNQZ5.CME@RITHMIC","24018.00","ETH LOW","#FFFFFF","#CC3300","center","","false","false","60","3",""
+"MNQZ5.CME@TM.Lite","24131.25","ETH HIGH","#FFFFFF","#33CC00","center","","false","false","60","3",""
+"MNQZ5.CME@TM.Lite","24018.00","ETH LOW","#FFFFFF","#CC3300","center","","false","false","60","3",""
 
-"MNQZ5.CME@RITHMIC","25010.00","Call OI","white","green","center","","false","true","60","3",""
-"MNQZ5.CME@RITHMIC","24690.00","Pos GEX","white","green","center","","false","true","60","3",""
-"MNQZ5.CME@RITHMIC","24460.60","Zero Gamma","black","white","center","","false","true","60","3",""
-"MNQZ5.CME@RITHMIC","24300.00","Neg GEX","white","red","center","","false","true","60","3",""
-"MNQZ5.CME@RITHMIC","23390.00","Put OI","white","red","center","","false","true","60","3",""
+"MNQZ5.CME@TM.Lite","25010.00","Call OI","white","green","center","","false","true","60","3",""
+"MNQZ5.CME@TM.Lite","24690.00","Pos GEX","white","green","center","","false","true","60","3",""
+"MNQZ5.CME@TM.Lite","24460.60","Zero Gamma","black","white","center","","false","true","60","3",""
+"MNQZ5.CME@TM.Lite","24300.00","Neg GEX","white","red","center","","false","true","60","3",""
+"MNQZ5.CME@TM.Lite","23390.00","Put OI","white","red","center","","false","true","60","3",""
 
-"MNQZ5.CME@RITHMIC","25900.00","Ponto Gatilho 04/11","red","black","center","","false","true","30","3",""
-"MNQZ5.CME@RITHMIC","25193.00","VWAP M","white","#b591ff","center","","false","true","30","3",""
+"MNQZ5.CME@TM.Lite","25900.00","Ponto Gatilho 04/11","red","black","center","","false","true","30","3",""
+"MNQZ5.CME@TM.Lite","25193.00","VWAP M","white","#b591ff","center","","false","true","30","3",""
